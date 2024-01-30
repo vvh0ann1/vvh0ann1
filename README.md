@@ -1,4 +1,7 @@
-### Hi there 👋
+### TH3 6R3@T H@CK
+
+[![Tistory Badge](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://vvh0am1.tistory.com/)](https://vvh0am1.tistory.com/)
+
 
 <!--
 **vvh0ann1/vvh0ann1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
